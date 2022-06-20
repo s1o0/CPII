@@ -25,5 +25,5 @@ python3 main.py
 
 • transfert_png.py : Script permettant de transformer les images produites au format PNG. Les résultats se trouveront dans le dossier "final"
 
-# Documentation nécessaires :
+# Documentation nécessaire :
 Une documentation a été réalisé via le logiciel Notion, vous pouvez la trouver sur ce [document](https://resonant-tamarillo-324.notion.site/Github-D-coupe-des-PLEIADES-e7c4b663c63b4067adb4a7bd9aa5f586).
