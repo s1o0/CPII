@@ -2,7 +2,7 @@ from osgeo import ogr
 #Objectif : Récupérer le nom de l'image IGN associée à une tuile
 #Prérequis : Ogr, Python
 
-#Méthode permettant de pouvoir récupérer le nom d'une image IGN en fonction d'un fichier .shp
+#Méthode permettante de pouvoir récupérer le nom d'une image IGN en fonction d'un fichier .shp
 def getName(shapefile):
     driver = ogr.GetDriverByName("ESRI Shapefile")
     #On ouvre le fichier .shp
