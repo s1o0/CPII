@@ -1,4 +1,4 @@
-# CPII
+# CPII (Cut Pleiade Into IGN)
 Algorithme permettant de découper les images Pleiades en fonction des images IGN
 
 # Exécution :
